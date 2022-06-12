@@ -1,0 +1,81 @@
+.stats-container {
+    padding: 50px;
+	margin: 5px;
+	border-radius: 10px;
+    font-weight: bold;
+}
+
+.good {
+    background-color: #7ab97a;
+}
+
+.bad {
+    background-color: #F46D75;
+}
+
+.emphasise {
+    font-weight: bold;
+    background-color: red;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.emphasise--green {
+    font-weight: bold;
+    background-color: green;
+    border-radius: 10px;
+    padding: 5px;
+    color: white;
+}
+
+.table {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.perf {
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: left;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+
+.examples {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+}
+
+.bar {
+    background-color: #F46D75;
+    width: 300px;
+    height: 10px;
+    margin: 0 5px;
+}
+
+.resources {
+    display: block;
+    background-color: green;
+    width: 87px;
+    height: 10px;
+}
+
+.interactive {
+    display: block;
+    background-color: green;
+    width: 111px;
+    height: 10px;
+}
+
+.carbon {
+    display: block;
+    background-color: green;
+    width: 129px;
+    height: 10px;
+}
+
+.inline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

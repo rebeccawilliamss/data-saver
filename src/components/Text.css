@@ -1,0 +1,19 @@
+h1 {
+    margin-bottom: 0px;
+}
+
+p {
+    line-height: 25px;
+    padding: 0 40px;
+}
+
+.text {
+    padding: 10px;
+    border-bottom: 5px solid #7ab97a;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 20px 0;
+}
+
+.text--full {
+    border-bottom: 5px solid red;
+}
